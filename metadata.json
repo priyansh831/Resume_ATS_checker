@@ -1,0 +1,6 @@
+{
+  "name": "Resume ATS Score Checker & Keyword Suggestion Tool",
+  "description": "A client-side tool to parse resume PDF files, analyze keywords against a target job description, and provide ATS optimization tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
